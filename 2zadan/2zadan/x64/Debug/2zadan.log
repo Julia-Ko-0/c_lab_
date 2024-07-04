@@ -1,0 +1,5 @@
+﻿  2zadan.cpp
+C:\Users\MSI\Desktop\github\c++\2zadan\2zadan\2zadan.cpp(13,9): error C2661: log: нет перегруженной функции, принимающей 2 аргументов
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\cmath(661,1): message : может быть "double log(_Ty) noexcept"
+C:\Users\MSI\Desktop\github\c++\2zadan\2zadan\2zadan.cpp(13,9): message : "double log(_Ty) noexcept": ожидаются аргументы 1 — 2 предоставлены
+C:\Users\MSI\Desktop\github\c++\2zadan\2zadan\2zadan.cpp(13,9): message : при попытке сопоставить список аргументов "(double, int)"
